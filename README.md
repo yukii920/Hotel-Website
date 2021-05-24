@@ -1,2 +1,2 @@
-# Resturant-Websiee
-A web page created using html ,css and bootstrap.
+# Resturant-Website
+A responsive web page created using html ,css and bootstrap.
